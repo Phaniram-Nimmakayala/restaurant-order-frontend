@@ -1,4 +1,5 @@
-const BACKEND_URL = "https://restaurant-order-app-1ijr.onrender.com";
+const BACKEND_URL = "https://restaurant-order-app-1jjr.onrender.com";
+
 
 let cart = [];
 
